@@ -13,3 +13,4 @@ Make sure you have Julia installed (tested with Julia 1.8). `cd` to the project 
 
 #### Model extrapolation
 ![Model extrapolation](./plots/extrapolation.svg)
+# neural-ode
